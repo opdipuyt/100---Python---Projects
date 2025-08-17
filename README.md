@@ -1,6 +1,10 @@
 # 100---Python---Projects
 100 Python Projects for beginners and professionals.
 
+In this project, we have divided it into three parts: Easy, Medium, and Hard.
+By completing these, you will gradually improve your Python skills and eventually be able to handle advanced projects.
+I hope this project will be helpful for your learning journey.
+
 
 All Projects name and number list ...
 
