@@ -1,4 +1,4 @@
-# 100---Python---Projects
+# 1 to 100---Python---Projects
 100 Python Projects for beginners and professionals.
 
 In this project, we have divided it into three parts: Easy, Medium, and Hard.
