@@ -1,3 +1,5 @@
+# mini projects multiplicationtabel
+
 import sys
 
 number = input("Which multiplication tabel do you want \n ")
@@ -41,3 +43,4 @@ y = y+1
 for y in range(1,times):
 
     print(number,"*",y,"=", number*y)
+
